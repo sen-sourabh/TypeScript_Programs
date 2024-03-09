@@ -1,0 +1,151 @@
+Beginner TO Medium:
+* Create an empty array.
+* Create an array with 5 numbers. & * Create an array with 3 strings.
+* Access the third element of an array.
+* Add an element to the end of an array.
+* Remove the first element of an array.
+* Remove the last element of an array.
+* Add an element to the beginning of an array.
+* Get the length of an array.
+* Check if an array contains a specific element.
+* Concatenate two arrays.
+* Sort an array in ascending order. & * Sort an array in descending order.
+* Reverse an array.
+* Find the index of a specific element in an array.
+* Remove an element from an array by index.
+* Create a copy of an array.
+* Check if an array is empty. & * Check if an array is not empty.
+* Join all elements of an array into a string.
+* Convert a string into an array.
+* Find the minimum value in an array.
+* Find the maximum value in an array.
+* Sum all values in an array.
+* Average all values in an array.
+* Remove duplicates from an array.
+* Check if all elements in an array are the same/identical.
+* Check if an array contains only unique values.
+* Check if an array contains a specific subset of values. 
+    For Example: a1 = [1, 2, 3, 4, 5], a2 = [3, 2, 5], a3 = [1, 4, 7]
+    Output: a2 is a subset of a1 but a3 isn't subset of a1.
+* Find the first occurrence of a value in an array.
+* Count the number of occurrences of a value in an array.
+* Remove all occurrences of a value from an array.
+* Remove all falsy values from an array.
+    For Example: falsyArray = [false, null, undefined, 0, NaN, "", 3, 5]
+    Output: [3, 5]
+* Check if an array contains any falsy values.
+* Flatten a nested array.
+    For Example: [1, [2, [3], 4, [5, 6, [7]]]] 
+    Output: [1, 2, 3, 4, 5, 6, 7]
+* Select a random element from an array.
+* Shuffle an array.
+* Compare two arrays for equality.
+* Find the difference between two arrays.
+Convert a multi-dimensional array into a one-dimensional array.
+* Find the intersection/common of two arrays.
+* Find the union/unique of two arrays.
+Find the nth largest element in an array.
+Find the nth smallest element in an array.
+Partition an array into two arrays based on a predicate.
+Group an array of objects by a key.
+Remove an object from an array of objects by a key-value pair.
+Find the object in an array of objects with the maximum value of a key.
+Find the object in an array of objects with the minimum value of a key.
+Sort an array of objects by a key in ascending order.
+
+Medium TO Advanced:
+Implement a binary search algorithm to search for an element in a sorted array.
+Implement a merge sort algorithm to sort an array.
+Implement a quicksort algorithm to sort an array.
+Implement a radix sort algorithm to sort an array of integers.
+Implement a bucket sort algorithm to sort an array of floating-point numbers.
+Implement a bubble sort algorithm to sort an array.
+Implement an insertion sort algorithm to sort an array.
+Implement a selection sort algorithm to sort an array.
+Implement a heap sort algorithm to sort an array.
+Implement a topological sort algorithm to sort a directed acyclic graph represented as an array of objects.
+Implement a depth-first search algorithm to traverse a graph represented as an array of objects.
+Implement a breadth-first search algorithm to traverse a graph represented as an array of objects.
+Implement Dijkstra's shortest path algorithm to find the shortest path between two nodes in a graph represented as an array of objects.
+Implement a Kruskal's minimum spanning tree algorithm to find the minimum spanning tree of a graph represented as an array of objects.
+Implement a Prim's minimum spanning tree algorithm to find the minimum spanning tree of a graph represented as an array of objects.
+Implement a Bellman-Ford algorithm to find the shortest path between two nodes in a graph represented as an array of objects.
+Implement a Floyd-Warshall algorithm to find the shortest path between all pairs of nodes in a graph represented as an array of objects.
+Implement a top-k frequent elements algorithm to find the k most frequent elements in an array.
+Implement a quickselect algorithm to find the kth smallest element in an array.
+Implement a binary search tree data structure and its operations (insert, delete, search).
+Implement a AVL tree data structure and its operations (insert, delete, search).
+Implement a Red-Black tree data structure and its operations (insert, delete, search).
+Implement a B-tree data structure and its operations (insert, delete, search).
+Implement a Trie data structure and its operations (insert, delete, search).
+Implement a Hash table data structure and its operations (insert, delete, search).
+Implement a Bloom filter data structure and its operations (insert, query).
+Implement a graph data structure and its operations (add node, add edge, remove node, remove edge, find shortest path).
+Implement a priority queue data structure and its operations (enqueue, dequeue).
+Implement a circular buffer data structure and its operations (enqueue, dequeue).
+Implement a stack data structure and its operations (push, pop).
+Implement a queue data structure and its operations (enqueue, dequeue).
+Implement a double-ended queue (deque) data structure and its operations (add front, add rear, remove front, remove rear).
+Implement a heap data structure and its operations (insert, delete, peek).
+Implement a binary heap data structure and its operations (insert, delete, peek).
+Implement a Fibonacci heap data structure and its operations (insert, delete, peek).
+Implement a disjoint-set data structure and its operations (make set, union, find).
+Implement a bit array data structure and its operations (set, clear, toggle, get).
+Implement a sparse array data structure and its operations (set, get).
+Implement a sparse matrix data structure and its operations (set, get).
+Implement a compressed sparse row (CSR) matrix data structure and its operations (set, get).
+
+Advanced TO Expert:
+Implement a parallel merge sort algorithm to sort a large array using Web Workers.
+Implement a distributed quicksort algorithm to sort a large array using multiple processes or machines.
+Implement a MapReduce algorithm to count the frequency of words in a large text file.
+Implement a Bloom filter algorithm to detect duplicates in a large dataset.
+Implement a linear regression algorithm to fit a line to a set of data points.
+Implement a k-means clustering algorithm to cluster data points into groups.
+Implement a decision tree algorithm to classify data based on a set of features.
+Implement a random forest algorithm to classify data based on a set of decision trees.
+Implement a neural network algorithm to classify data based on a set of features.
+Implement a support vector machine algorithm to classify data based on a set of features.
+Implement a gradient descent algorithm to optimize a cost function.
+Implement a genetic algorithm to optimize a function.
+Implement a particle swarm optimization algorithm to optimize a function.
+Implement a simulated annealing algorithm to optimize a function.
+Implement a ant colony optimization algorithm to optimize a function.
+Implement a reinforcement learning algorithm to learn an optimal policy.
+Implement a Q-learning algorithm to learn an optimal policy.
+Implement a deep Q-learning algorithm to learn an optimal policy.
+Implement a Monte Carlo tree search algorithm to play a game.
+Implement a Alpha-Beta pruning algorithm to play a game.
+Implement a Expectimax algorithm to play a game.
+Implement a minimax algorithm to play a game.
+Implement a k-nearest neighbors algorithm to classify data based on nearest neighbors.
+Implement a principal component analysis algorithm to reduce the dimensionality of data.
+Implement a singular value decomposition algorithm to factorize a matrix.
+Implement a non-negative matrix factorization algorithm to factorize a matrix.
+Implement a linear discriminant analysis algorithm to reduce the dimensionality of data.
+Implement a Fast Fourier Transform algorithm to transform a signal into frequency domain.
+Implement a discrete cosine transform algorithm to transform a signal into frequency domain.
+Implement a discrete wavelet transform algorithm to transform a signal into frequency domain.
+Implement a convolutional neural network algorithm to classify images.
+Implement a recurrent neural network algorithm to process sequential data.
+Implement a Long Short-Term Memory (LSTM) algorithm to process sequential data.
+Implement a Generative Adversarial Network (GAN) algorithm to generate realistic images.
+Implement a Variational Autoencoder (VAE) algorithm to generate new data points.
+Implement a Restricted Boltzmann Machine (RBM) algorithm to perform dimensionality reduction.
+Implement a Convolutional RBM algorithm to perform dimensionality reduction on images.
+Implement a Hopfield network algorithm to perform associative memory.
+Implement a Boltzmann machine algorithm to learn a probability distribution.
+Implement a Restricted Boltzmann Machine with Contrastive Divergence algorithm to perform unsupervised learning.
+Implement a Convolutional Neural Network with Dropout algorithm to prevent overfitting.
+Implement a Convolutional Neural Network with Batch Normalization algorithm to improve training speed.
+Implement a Residual Neural Network algorithm to improve training accuracy.
+Implement a Transformer Neural Network algorithm to process sequential data.
+Implement a Graph Convolutional Network algorithm to classify graphs.
+Implement a Siamese Neural Network algorithm to compare similarity between two data points.
+Implement a Recurrent Neural Network with Attention algorithm to improve performance on long sequences.
+
+
+
+
+
+
